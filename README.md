@@ -36,6 +36,5 @@ The data-mining objectives are to:
 # References
 * Han, J., and Kamber, M. (2006) Data mining: concepts and techniques. Elsevier.
 * UCI (1996) Adult Data Set [Online] Available at: https://archive.ics.uci.edu/ml/datasets/Adult Accessed: 5th February 2017.
-United States Department of Labor (2017) Overtime. [Online] Available at: https://www.dol.gov/general/topic/workhours/overtime Accessed: 5th March 2017
 
 To request for a pdf report of this project, send an email to taotopps2006@gmail.com
