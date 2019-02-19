@@ -15,7 +15,7 @@ The data set used in this report is called the Adult dataset (also known as "Cen
 The adult dataset contains forty-eight thousand, eight hundred and forty-two (48842) instances of census information taken from the United States (US) Census bureau database. It was donated into the UCI repository on 01/05/1996 (UCI 1994). The adult dataset contains a mix of nominal and continuous variables.
 * Dataset Choice Motivation
 The dataset described in section 2.2 above was not just chosen at random. It was the preferred dataset choice for the Data Mining module because of the following reasons:
-i) It is a large, messy and a challenging dataset to work with.
+ * It is a large, messy and a challenging dataset to work with.
 ii) It is sufficient for illustrating all steps in the KDD process.
 iii) The dataset has been used by lots of researcher to perform different data mining algorithms (UCI 1996).
 iv) It has missing values, which enables one to demonstrate the skills gained during the data mining class lectures and laboratory exercises on how to handle missing values during the data pre-processing stage.
