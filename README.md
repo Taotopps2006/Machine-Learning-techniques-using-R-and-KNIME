@@ -16,18 +16,18 @@ The adult dataset contains forty-eight thousand, eight hundred and forty-two (48
 * Dataset Choice Motivation
 The dataset described in section 2.2 above was not just chosen at random. It was the preferred dataset choice for the Data Mining module because of the following reasons:
   *  It is a large, messy and a challenging dataset to work with.
-ii) It is sufficient for illustrating all steps in the KDD process.
-iii) The dataset has been used by lots of researcher to perform different data mining algorithms (UCI 1996).
-iv) It has missing values, which enables one to demonstrate the skills gained during the data mining class lectures and laboratory exercises on how to handle missing values during the data pre-processing stage.
-v) It is a good dataset for performing all forms of data mining techniques like classification, association etc.
-vi) It has many attributes which makes it suitable for better data exploration/analysis or in-depth data analysis
-vii) Since it has been partitioned randomly by default using ML++ GenCVFiles, comparison of the accuracy of further partitioning methods can therefore be compared.
+  *  It is sufficient for illustrating all steps in the KDD process.
+  *  The dataset has been used by lots of researcher to perform different data mining algorithms (UCI 1996).
+  *  It has missing values, which enables one to demonstrate the skills gained during the data mining class lectures and laboratory exercises on how to handle missing values during the data pre-processing stage.
+  *  It is a good dataset for performing all forms of data mining techniques like classification, association etc.
+  *  It has many attributes which makes it suitable for better data exploration/analysis or in-depth data analysis
+  *  Since it has been partitioned randomly by default using ML++ GenCVFiles, comparison of the accuracy of further partitioning methods can therefore be compared.
 * Data Mining Objectives
 The data-mining objectives are to:
-i. Perform an in-depth data pre-processing to clean and prepare the large and messy dataset for further data analysis.
-ii. Create a classification model, which can determine whether a person makes over fifty thousand United States dollar by mining nameless census data containing information such as age, work class, marital status, occupation, sex and education level.
-iii. Select the optimal or most accurate classification model out of a number of models created.
-iv. Perform Association rule mining to find frequent patterns that exists in the dataset and determine which values of the dataset attributes determine high income or low income.
+  *  Perform an in-depth data pre-processing to clean and prepare the large and messy dataset for further data analysis.
+  *  Create a classification model, which can determine whether a person makes over fifty thousand United States dollar by mining nameless census data containing information such as age, work class, marital status, occupation, sex and education level.
+  *  Select the optimal or most accurate classification model out of a number of models created.
+  *  Perform Association rule mining to find frequent patterns that exists in the dataset and determine which values of the dataset attributes determine high income or low income.
 
 # Data Analysis
 * R will be used in exploring and pre-processing the data. R will also be used for Association rule mining
@@ -38,4 +38,4 @@ iv. Perform Association rule mining to find frequent patterns that exists in the
 * UCI (1996) Adult Data Set [Online] Available at: https://archive.ics.uci.edu/ml/datasets/Adult Accessed: 5th February 2017.
 United States Department of Labor (2017) Overtime. [Online] Available at: https://www.dol.gov/general/topic/workhours/overtime Accessed: 5th March 2017
 
-
+To request for a pdf report of this project, send an email to taotopps2006@gmail.com
